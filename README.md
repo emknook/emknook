@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Marcy! Or @emknook I suppose.
-- 👀 I’m interested in a lot of things. Whenever I don't know something, I really like looking it all up to learn about it.
-- 🌱 I’m currently on an internship working on the webbased portal of Masters In Process.
+- 👀 I’m interested in a lot of things. Whenever I don't know something, I really like looking it up to learn everything about it.
 - 📫 How to reach me; @MarcyKnook on twitter, emknook@gmail.com for email.
 
 <!---
